@@ -40,6 +40,11 @@ DMGを開き、GridMemoを「アプリケーション」フォルダへ移動し
 
 ![週間スケジュールとして使うGridMemoのボード](docs/images/weekly-schedule.png)
 
+## サポート
+
+- [サポート](https://ta-uryu.github.io/grid-memo/support/)
+- [プライバシーポリシー](https://ta-uryu.github.io/grid-memo/privacy/)
+
 ## ライセンス
 
 Copyright (c) 2026 ta-uryu. All rights reserved.
